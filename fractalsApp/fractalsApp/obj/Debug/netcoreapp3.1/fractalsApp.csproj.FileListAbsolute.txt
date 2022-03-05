@@ -1,0 +1,16 @@
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.csprojAssemblyReference.cache
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.Form1.resources
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.csproj.GenerateResource.cache
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.AssemblyInfoInputs.cache
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.AssemblyInfo.cs
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.csproj.CoreCompileInputs.cache
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\bin\Debug\netcoreapp3.1\fractalsApp.exe
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\bin\Debug\netcoreapp3.1\fractalsApp.deps.json
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\bin\Debug\netcoreapp3.1\fractalsApp.runtimeconfig.json
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\bin\Debug\netcoreapp3.1\fractalsApp.runtimeconfig.dev.json
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\bin\Debug\netcoreapp3.1\fractalsApp.dll
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\bin\Debug\netcoreapp3.1\fractalsApp.pdb
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.Properties.Resources.resources
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.dll
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.pdb
+D:\прога_взаимноеоценивание\fractalsApp\fractalsApp\fractalsApp\obj\Debug\netcoreapp3.1\fractalsApp.genruntimeconfig.cache
