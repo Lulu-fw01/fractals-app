@@ -13,6 +13,8 @@ For Pythagoras tree you can set special coefficient responsible for the size of 
 
 
 #### Koch Curve
+ 
+There are two Koch curves with different numbers of recursive steps.
 
 ![Koch Curve](https://github.com/Lulu-fw01/fractals-app/blob/main/images/kochCurve.png)
 
