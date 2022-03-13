@@ -2,9 +2,15 @@
 C# windows forms app which draw different fractal figures.
 
 ____
+For all fractal types it is possible to set gradient coloring and number of recursive steps.
 #### Pythagoras tree
 
+For Pythagoras tree you can set special coefficient responsible for the size of the tree. You can experiment with different tree breanches slopes by changing the angles. 
+
+<p>Here you can see gradient Pythagoras tree with different tree branches angles. 
+ 
 ![Pythagoras tree](https://github.com/Lulu-fw01/fractals-app/blob/main/images/pythagorasTree.png)
+
 
 #### Koch Curve
 
