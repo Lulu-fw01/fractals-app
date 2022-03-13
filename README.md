@@ -27,7 +27,7 @@ ____
 
 ____
 ### Save fractal image
-In this app it is possible to save frctal image in bmp format
+In this app it is possible to save fractal image in .bmp format
 
 ![Example](https://github.com/Lulu-fw01/fractals-app/blob/main/images/tree.bmp)
 ____
