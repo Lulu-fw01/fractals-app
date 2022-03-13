@@ -24,6 +24,12 @@ ____
 #### Cantor set
 
 ![Cantor set](https://github.com/Lulu-fw01/fractals-app/blob/main/images/cantorSet.png)
+
+____
+### Save fractal image
+In this app it is possible to save frctal image in bmp format
+
+![Example](https://github.com/Lulu-fw01/fractals-app/blob/main/images/tree.bmp)
 ____
 ### _Build process_
 1. Clone repository.
