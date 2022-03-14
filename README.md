@@ -21,6 +21,7 @@ There are two Koch curves with different numbers of recursive steps.
 ![Koch Curve](https://github.com/Lulu-fw01/fractals-app/blob/main/images/kochCurve2.png)
 
 #### Sierpinski carpet
+There are two Sierpinski carpets. You can clearly see the difference between images with different number of recursion steps.
 
 ![Sierpinski carpet](https://github.com/Lulu-fw01/fractals-app/blob/main/images/sierpinskiCarpet.png)
 ![Sierpinski carpet](https://github.com/Lulu-fw01/fractals-app/blob/main/images/sierpinskiCarpet2.png)
@@ -35,7 +36,7 @@ There are two Koch curves with different numbers of recursive steps.
 
 ____
 ### Save fractal image
-In this app it is possible to save fractal image in .bmp format
+In this app it is possible to save fractal image in .bmp format.
 
 ![Example](https://github.com/Lulu-fw01/fractals-app/blob/main/images/tree.bmp)
 ____
